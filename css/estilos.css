@@ -1,0 +1,48 @@
+header {
+	color: rgb(8, 29, 17); /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color: rgb(9, 164, 164);
+}
+nav {
+	color: azure; /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color:rgb(8, 29, 17);
+}
+article{
+	color: rgb(8, 29, 17); /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color: rgb(111, 94, 19);
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    align-items:flex-start ;
+}
+section {
+	color: rgb(8, 29, 17); /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color: rgb(164, 201, 15);
+}
+footer {
+	color: rgb(8, 29, 17); /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color:rgb(9, 164, 164);
+}
+aside {
+	color: rgb(90, 136, 4); /*a comment */
+	margin: 10px;
+	font: 20 px Consolas;
+    background-color: rgb(1, 10, 10);
+}
+.info{
+    color: red;
+
+}
+#tema2{
+
+    color : magenta;
+}
