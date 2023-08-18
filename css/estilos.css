@@ -28,7 +28,7 @@ section {
 }
 footer {
 	color: rgb(8, 29, 17); /*a comment */
-	margin: 10px;
+	margin: 12px;
 	font: 20 px Consolas;
     background-color:rgb(9, 164, 164);
 }
